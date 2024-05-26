@@ -7,7 +7,6 @@
 <h3 align="left">Weapons :</h3>
 <p align="left"> 
   <a href="https://www.java.com/en/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3SGOAvB5jtN30Tjah_AbAQxkToFTEYT_PPjs2pGQS3Z78u_UVS3h2ABk1bG9jxl0C1g&usqp=CAU" alt="java" height="50" width="50"> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" alt="python" height="50" width="50"> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
   
 </p>
